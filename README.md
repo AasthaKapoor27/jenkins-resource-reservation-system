@@ -1,5 +1,12 @@
 # Jenkins Resource Reservation System
 
+## 🌐 Live Demo
+
+Frontend: https://jenkins-resource-reservation-system.vercel.app
+Backend API: https://jenkins-resource-reservation-system.onrender.com
+
+---
+
 A full-stack web application to manage and reserve Jenkins agents efficiently, preventing resource conflicts during critical builds.
 
 ## 🚀 Features
